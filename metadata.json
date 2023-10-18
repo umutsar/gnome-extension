@@ -1,0 +1,8 @@
+{
+    "uuid": "example@gjs.guide",
+    "name": "Example Extension",
+    "description": "An example extension with translations",
+    "shell-version": [ "44" ],
+    "url": "https://gjs.guide/extensions",
+    "gettext-domain": "example@gjs.guide"
+}
